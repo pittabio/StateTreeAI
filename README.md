@@ -50,13 +50,13 @@ This project follows a progressive learning path focused on mastering State Tree
 │ *Learning*          │     │ *Planned*           │     │ *Planned*           │
 │ State Tree Basics   │     │ Complex AI Systems  │     │ GAS + State Trees   │
 │ Simple AI Behaviors │     │ Quest System  	  │     │ Complete Game       │
-| Core Concepts		  |		| Advanced Patterns	  |		| Production-Ready	  |		
+│ Core Concepts		  │		│ Advanced Patterns	  │		│ Production-Ready	  │
 └─────────────────────┘     └─────────────────────┘     └─────────────────────┘
       ↑
 ┌────────────────────┐
 │ GasAbilities       │
 │ (separate project) │
-| (completed)		 |
+│ (completed)		 │
 └────────────────────┘
 ```
 
